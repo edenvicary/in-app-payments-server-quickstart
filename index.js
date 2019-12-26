@@ -123,8 +123,8 @@ function getOrderRequest() {
           name: "Cookie 🍪",
           quantity: "1",
           base_price_money: {
-            amount: 100,
-            currency: "USD"
+            amount: 300,
+            currency: "AUD"
           }
         }
       ]
